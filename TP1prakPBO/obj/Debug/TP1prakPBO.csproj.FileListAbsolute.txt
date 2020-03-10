@@ -1,0 +1,10 @@
+C:\Users\Albari\Desktop\prakpbofix\TP1prakPBO\TP1prakPBO\bin\Debug\TP1prakPBO.exe.config
+C:\Users\Albari\Desktop\prakpbofix\TP1prakPBO\TP1prakPBO\bin\Debug\TP1prakPBO.exe
+C:\Users\Albari\Desktop\prakpbofix\TP1prakPBO\TP1prakPBO\bin\Debug\TP1prakPBO.pdb
+C:\Users\Albari\Desktop\prakpbofix\TP1prakPBO\TP1prakPBO\obj\Debug\TP1prakPBO.csprojAssemblyReference.cache
+C:\Users\Albari\Desktop\prakpbofix\TP1prakPBO\TP1prakPBO\obj\Debug\TP1prakPBO.Form1.resources
+C:\Users\Albari\Desktop\prakpbofix\TP1prakPBO\TP1prakPBO\obj\Debug\TP1prakPBO.Properties.Resources.resources
+C:\Users\Albari\Desktop\prakpbofix\TP1prakPBO\TP1prakPBO\obj\Debug\TP1prakPBO.csproj.GenerateResource.cache
+C:\Users\Albari\Desktop\prakpbofix\TP1prakPBO\TP1prakPBO\obj\Debug\TP1prakPBO.exe
+C:\Users\Albari\Desktop\prakpbofix\TP1prakPBO\TP1prakPBO\obj\Debug\TP1prakPBO.pdb
+C:\Users\Albari\Desktop\prakpbofix\TP1prakPBO\TP1prakPBO\obj\Debug\TP1prakPBO.Form2.resources

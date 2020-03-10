@@ -1,0 +1,18 @@
+Saya albari berki pradhana mengerjakan evaluasi TP1 dalam matakuliah PBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah di spesifikasikan aamiin.
+
+kesulitan:
+saya belum bisa bikin evet handler ketika membuat new button untuk masuk ke halaman detail barangnya
+
+hal baru:
+picturebox, button.clear, foreach dalam C#, membuat icon, hyperlink
+
+fitur yang sudah:
+login dengan password yang ditentukan, disesnsor ssat ngetik passwordnya.
+kalo login gagal muncul warning.
+kalo berhasil pindah ke form utama.
+kalo klik icon katalog bisa hyperlink ke lazada.
+kalo klik icon menu beli bisa kembali ke halaman utama dengan semua barang di show.
+ada dropdown yang kalo dpilih" nanti bisa keluar barang yang sesuai kriteria.
+ada footer nim nama.
+klik logout nanti ke menu login lagi.
+pada panel yang nampilin barang", udh bisa bikin label harga, nama, dan button yang harusnya button ini nanti untuk pindah ke halaman detail tp belum bisa wae.
